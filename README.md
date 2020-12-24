@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://i.hizliresim.com/6Bbj7i.jpg" width="200" height="200">
-  <h1>🐺 WhatsAsena</h1>
+  <img src="https://k.top4top.io/p_1816buupo1.jpg" width="200" height="200">
+  <h1>SELF-BOT</h1>
 </div>
 <p align="center">
-    WhatsAsena project - Makes it easy and fun to use Whatsapp. Also first userbot for Whatsapp
+    Created Just For Fun!
     <br>
         Reserved |
         Reserved |
