@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://k.top4top.io/p_1816buupo1.jpg" width="200" height="200">
+  <img src="https://k.top4top.io/p_1816buupo1.jpg" width="100" height="100">
   <h1>SELF-BOT</h1>
 </div>
 <p align="center">
@@ -12,9 +12,11 @@
 </p>
 
 ## Thanks To
+- Allah SWT
+- Emak
+- Bapack
 - [@adiwajshing](https://github.com/adiwajshing) for coded [Baileys](https://github.com/adiwajshing/Baileys) 
-- [@itacirgabral](https://github.com/itacirgabral) for helps
-- Translators
+- All creator bot whatsapp
 
 ## License
 This project is protected by `GNU General Public Licence v3.0` license.
